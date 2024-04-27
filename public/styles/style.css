@@ -1,0 +1,38 @@
+.down-btn{
+    background-color: yellow;
+    border: 30px;
+    border-radius: 25px;
+    border-color: red;
+}
+.profile-img{
+    height: 300px ;
+    width: 300px ;
+}
+.span1{
+    color: blue;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+    float: right;
+}
+.social{
+    display: flex;
+    justify-content: space-evenly;
+}
+.spa{
+    color: rgb(0, 255, 179);
+}
+.about{
+      color:rgb(8, 27, 98); 
+      ;
+}
